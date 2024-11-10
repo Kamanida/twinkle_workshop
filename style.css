@@ -1,0 +1,15 @@
+body, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+background-color: greenyellow;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+height:100px;
+padding-left: 4rem;
+padding-right: 4rem;
+}
